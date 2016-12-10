@@ -26,15 +26,4 @@ build:
     - #dir1
   push:
 
-integrations:
- notifications:
-   - integrationName:
-     type:
-     recipients:
-       - #recp1
-       - #recp2
 
-  hub:
-    - integrationName:
-      type:
-      agent_only:
