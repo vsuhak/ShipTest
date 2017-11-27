@@ -2,6 +2,8 @@ language: c
 
 build:
   ci:
+    echo "*******"
+    echo $COMPARE_URL
     make
 
 
